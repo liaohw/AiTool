@@ -1,6 +1,6 @@
 # 数据生成模版
     报销系统生成模版，用于批量导入和小票打印
-    本模板，通过在Excel里嵌套VB宏实现代码逻辑，所以首次启动文档时需同意加载“启动内容”，如：
+    本模板，通过在Excel里嵌套VB宏实现代码逻辑，所以首次启动文档时需同意加载“启用内容”，如：
 ![load.png](https://github.com/liaohw/AiTool/blob/master/res/load.png)
 
 ## Execl参数说明
